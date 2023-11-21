@@ -32,5 +32,8 @@ Data Visualization: Additional visualizations, such as a pairplot and a heatmap 
 
 ROC Curve and AUC Score: The Receiver Operating Characteristic (ROC) curve is plotted, and the Area Under the Curve (AUC) score is calculated to assess the model's performance.
 
+![output](https://github.com/arun7371/Diabetes-Detection-Using-Machine-Learning/assets/86791724/a60615ae-c13f-4bf3-9534-080cd9aa498f)
+
+
 Achieved Accuracy:
 Remarkably, the model achieves an accuracy of 100% on the testing set. While a perfect accuracy score might raise questions about potential issues such as overfitting or data leakage, it's crucial to thoroughly investigate and validate the results. Possible considerations include the dataset size, characteristics, and the chosen evaluation metrics. Additionally, a thorough understanding of the data and model behavior is necessary to ensure the credibility of the reported accuracy.
